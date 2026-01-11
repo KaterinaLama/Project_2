@@ -1,6 +1,6 @@
-# 📦 Project_2
+# 📦 Project_2 - Interactive Dashboards
 <p align="center">
-  <img src="assets/CO2.png" alt="Project Banner" width="100%">
+  <img src="assets/CO2.png" alt="Project Banner" width="50%">
 </p>
 
 ### **Interactive Dashboards based on a Food Production CO2 Emissions Dataset**
