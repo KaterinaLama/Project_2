@@ -1,6 +1,6 @@
 # 📦 Project_2 - Interactive Dashboards
 <p align="center">
-  <img src="assets/CO2.png" alt="Project Banner" width="50%">
+  <img src="assets/CO2.png" alt="Project Banner" width="70%">
 </p>
 
 ### **Interactive Dashboards based on a Food Production CO2 Emissions Dataset**
@@ -25,24 +25,35 @@ Stored in the repository under:
 
 ## 🧹 2. Data Cleaning
 
-Data cleaning was not needed
+Data cleaning was not needed, so relevant folder is empty
 
 ---
 
 ## 📊 3. Exploratory Data Analysis (EDA)
 
-EDA is conducted via Power BI where calculated metrics and dashboards are in the .pbix file:
+EDA is conducted using:
 
-* **`CO2_Emissions.pbix`**
+* **`Project2-EDA.ipynb`**
 
 Stored in the directory:
 **`/analysis`**
 
 ---
 
-## 📝 4. Results
+## 📊 4. Dashboards
 
-Results are presented in the powerpoint file
+Interactive dashboards and calculated metrics are created in the file:
+
+* **`CO2_Emissions.pbix`**
+
+Stored in the directory:
+**`/dashboard`**
+
+---
+
+## 📝 5. Results
+
+Results are presented in the powerpoint file Project_2.pptx
 
 Saved under:
 **`/presentation`**
